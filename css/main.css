@@ -1,0 +1,44 @@
+/* Inserta tu codigo aqui */
+body{
+    margin: 0;
+}
+img.bg-img-block{
+    max-height: 400px;
+}
+.bg-image-metodo{
+	background-image: url("../img/metodo.JPG");
+}
+.bg-image-fondo{
+	background-image: url("../img/fondo.jpg");
+}
+.bg-image-semilla{
+    background-image: url("../img/semilla.jpg");
+    height: 500px;
+}
+.img-logo{
+    display: inline-block;
+    width: 120px;
+}
+footer>div>p{
+    margin: 0;
+}
+.border-nav{
+    border-right: #6c757d solid 2px ;
+}
+a.link-secondary{
+    text-decoration: none;
+}
+img.icono-contacto{
+    width: 3rem;
+    margin-right: 1rem;
+}
+#blog{
+    background-image: url("../img/fondo2.jpg");
+}
+#redes img{
+    display: inline-block;
+    width: 2rem;
+}
+#redes>div>div{
+    height: 15rem;
+}
